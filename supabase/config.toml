@@ -1,0 +1,4 @@
+project_id = "orgdmnwhwvojeekpfdhw"
+
+[functions.atena-expense-extract]
+verify_jwt = true
